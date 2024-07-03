@@ -1,0 +1,9 @@
+* {
+    background-color: black;
+    overflow: hidden;
+}
+
+#result {
+    font-size: 100px;
+    color: red;
+}
